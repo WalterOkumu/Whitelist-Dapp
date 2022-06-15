@@ -1,8 +1,5 @@
 node_modules
-/whitelist-dapp/node_modules
-/hardhat-tutorial/node_modules
 .env
-/hardhat-tutorial/.env
 coverage
 coverage.json
 typechain
